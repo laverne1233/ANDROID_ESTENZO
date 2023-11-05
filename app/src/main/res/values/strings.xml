@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jim\'s Animal Names</string>
+    <string name="john_doe">John Doe</string>
+    <string name="blank">blank</string>
+    <string name="blanks" />
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+    <string name="john_doe1">John Doe</string>
+    <string name="block_animal">Block Animal</string>
+    <string name="manage_blocked_animals">Manage Blocked Animals</string>
+</resources>
